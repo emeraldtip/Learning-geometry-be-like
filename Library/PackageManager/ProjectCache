@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637717031104215224
+      ticks: 637717019439590966
     m_Hash: 2649009015
   m_LockFileStatus:
     m_FilePath: C:/Users/karljoosep81413/Avoid da shabe/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637717031110899137
+      ticks: 637717019756078825
     m_Hash: 737861715
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
